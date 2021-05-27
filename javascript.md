@@ -3,7 +3,7 @@
 ### <span style="color:#FFA400">**History:-**</span>
 - it started in 1995.
 - earlier design mocha live script.
-- designed by brendon.  
+- designed by brendan.  
 - donated to ECMA to create a  standard implementation.
 - new js based on ECMAscript.
 - javascript = java + livescript. 
